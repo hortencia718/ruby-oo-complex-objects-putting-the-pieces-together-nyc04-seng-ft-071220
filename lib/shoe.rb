@@ -1,11 +1,11 @@
 
-require_relative
+# require_relative
 
-class shoe
+# class shoe
  
-  def initialize(brand)
-    @brand = brand
-  end
+#   def initialize(brand)
+#     @brand = brand
+#   end
  
 
 
